@@ -1,0 +1,2642 @@
+[
+  {
+    "venue": "戸田",
+    "venue_code": "02",
+    "race_no": "2R",
+    "start_time": "11:16",
+    "players": [
+      "渡辺千草",
+      "室田泰史",
+      "長尾萌加",
+      "中野孝二",
+      "黒田誠司",
+      "黒井達矢"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "戸田",
+    "venue_code": "02",
+    "race_no": "3R",
+    "start_time": "11:45",
+    "players": [
+      "中村栄治",
+      "松村康太",
+      "服部剛",
+      "小澤和也",
+      "三浦敬太",
+      "小林泰"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "戸田",
+    "venue_code": "02",
+    "race_no": "4R",
+    "start_time": "12:14",
+    "players": [
+      "福島陽子",
+      "平田さやか",
+      "泉具巳",
+      "黒明花夢",
+      "平田健之佑",
+      "高山敬悟"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "戸田",
+    "venue_code": "02",
+    "race_no": "5R",
+    "start_time": "12:44",
+    "players": [
+      "黒崎竜也",
+      "藤生雄人",
+      "武田正紀",
+      "大池佑来",
+      "杉江浩明",
+      "竹腰正樹"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "戸田",
+    "venue_code": "02",
+    "race_no": "6R",
+    "start_time": "13:14",
+    "players": [
+      "池田剛規",
+      "橋本久和",
+      "野長瀬正孝",
+      "渡辺千草",
+      "山田晃大",
+      "金子良昭"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "戸田",
+    "venue_code": "02",
+    "race_no": "7R",
+    "start_time": "13:45",
+    "players": [
+      "田中京介",
+      "神田達也",
+      "中野孝二",
+      "中村栄治",
+      "羽田妃希",
+      "上野秀和"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "戸田",
+    "venue_code": "02",
+    "race_no": "8R",
+    "start_time": "14:16",
+    "players": [
+      "藤田竜弘",
+      "山崎聖司",
+      "黒井達矢",
+      "服部剛",
+      "福島陽子",
+      "村田修次"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "戸田",
+    "venue_code": "02",
+    "race_no": "9R",
+    "start_time": "14:48",
+    "players": [
+      "崎利仁",
+      "高山敬悟",
+      "小林泰",
+      "黒崎竜也",
+      "室田泰史",
+      "笠野友紀恵"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "戸田",
+    "venue_code": "02",
+    "race_no": "10R",
+    "start_time": "15:21",
+    "players": [
+      "野長瀬正孝",
+      "平田健之佑",
+      "小澤和也",
+      "竹腰正樹",
+      "平石和男",
+      "生方靖亜"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "戸田",
+    "venue_code": "02",
+    "race_no": "11R",
+    "start_time": "15:55",
+    "players": [
+      "三浦敬太",
+      "山田晃大",
+      "大澤大夢",
+      "田中京介",
+      "藤生雄人",
+      "廣瀬将亨"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "戸田",
+    "venue_code": "02",
+    "race_no": "12R",
+    "start_time": "16:30",
+    "players": [
+      "大池佑来",
+      "藤田竜弘",
+      "松村康太",
+      "上野秀和",
+      "橋本久和",
+      "平田さやか"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "江戸川",
+    "venue_code": "03",
+    "race_no": "2R",
+    "start_time": "11:41",
+    "players": [
+      "倉尾大介",
+      "伊藤紘章",
+      "大野芳顕",
+      "牧村俊輝",
+      "岩下巧斗",
+      "佐藤駿介"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "江戸川",
+    "venue_code": "03",
+    "race_no": "3R",
+    "start_time": "12:08",
+    "players": [
+      "加木郁",
+      "坂元浩仁",
+      "石田勇斗",
+      "宮崎奏磨",
+      "坂井滉哉",
+      "本橋克洋"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "江戸川",
+    "venue_code": "03",
+    "race_no": "4R",
+    "start_time": "12:35",
+    "players": [
+      "岩津徹郎",
+      "寺本重宣",
+      "白井友晴",
+      "秋田健太郎",
+      "荒木颯斗",
+      "渡邊雄斗"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "江戸川",
+    "venue_code": "03",
+    "race_no": "5R",
+    "start_time": "13:02",
+    "players": [
+      "浮田圭浩",
+      "黄金井力良",
+      "鈴木猛",
+      "森定晃史",
+      "近藤雄一郎",
+      "幸野史明"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "江戸川",
+    "venue_code": "03",
+    "race_no": "6R",
+    "start_time": "13:29",
+    "players": [
+      "浅見昌克",
+      "松井友汰",
+      "堀本翔太",
+      "岩下巧斗",
+      "坪井康晴",
+      "花本剛"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "江戸川",
+    "venue_code": "03",
+    "race_no": "7R",
+    "start_time": "13:56",
+    "players": [
+      "松崎祐太郎",
+      "石川吉鎬",
+      "大熊辰弥",
+      "石渡鉄兵",
+      "越智照浩",
+      "宮崎奏磨"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "江戸川",
+    "venue_code": "03",
+    "race_no": "8R",
+    "start_time": "14:24",
+    "players": [
+      "加藤政彦",
+      "野間大樹",
+      "寺本重宣",
+      "池永太",
+      "石田勇斗",
+      "牧村俊輝"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "江戸川",
+    "venue_code": "03",
+    "race_no": "9R",
+    "start_time": "14:52",
+    "players": [
+      "黄金井力良",
+      "柳生泰二",
+      "倉尾大介",
+      "加木郁",
+      "白井友晴",
+      "沢田昭宏"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "江戸川",
+    "venue_code": "03",
+    "race_no": "10R",
+    "start_time": "15:22",
+    "players": [
+      "大野芳顕",
+      "坪井康晴",
+      "岩津徹郎",
+      "本橋克洋",
+      "浮田圭浩",
+      "川合理司"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "江戸川",
+    "venue_code": "03",
+    "race_no": "11R",
+    "start_time": "15:53",
+    "players": [
+      "森定晃史",
+      "越智照浩",
+      "中田友也",
+      "坂元浩仁",
+      "浅見昌克",
+      "仲道大輔"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "江戸川",
+    "venue_code": "03",
+    "race_no": "12R",
+    "start_time": "16:25",
+    "players": [
+      "平本真之",
+      "坂井滉哉",
+      "松井友汰",
+      "伊藤紘章",
+      "石川吉鎬",
+      "秋田健太郎"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "多摩川",
+    "venue_code": "05",
+    "race_no": "2R",
+    "start_time": "12:55",
+    "players": [
+      "吉川晴人",
+      "宇留田翔平",
+      "山崎小葉音",
+      "宮之原輝紀",
+      "畑竜生",
+      "青木蓮"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "多摩川",
+    "venue_code": "05",
+    "race_no": "3R",
+    "start_time": "13:31",
+    "players": [
+      "高井雄基",
+      "石本裕武",
+      "石原翼",
+      "鈴木孝明",
+      "藤田俊祐",
+      "井上忠政"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "多摩川",
+    "venue_code": "05",
+    "race_no": "4R",
+    "start_time": "14:05",
+    "players": [
+      "河野主樹",
+      "中村魁生",
+      "畑田汰一",
+      "湯淺紀香",
+      "中村泰平",
+      "豊田健士郎"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "多摩川",
+    "venue_code": "05",
+    "race_no": "5R",
+    "start_time": "14:40",
+    "players": [
+      "砂長知輝",
+      "川原涼",
+      "吉田裕平",
+      "佐々木翔斗",
+      "川井萌",
+      "森下愛梨"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "多摩川",
+    "venue_code": "05",
+    "race_no": "6R",
+    "start_time": "15:09",
+    "players": [
+      "金田智博",
+      "若林義人",
+      "香川颯太",
+      "青木蓮",
+      "石渡翔一郎",
+      "澤田尚也"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "多摩川",
+    "venue_code": "05",
+    "race_no": "7R",
+    "start_time": "15:41",
+    "players": [
+      "為本智也",
+      "福田翔吾",
+      "畑竜生",
+      "井上忠政",
+      "前田滉",
+      "中山翔太"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "多摩川",
+    "venue_code": "05",
+    "race_no": "8R",
+    "start_time": "16:15",
+    "players": [
+      "上田健太",
+      "宮之原輝紀",
+      "河野主樹",
+      "中島秀治",
+      "高井雄基",
+      "長谷川晴哉"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "多摩川",
+    "venue_code": "05",
+    "race_no": "9R",
+    "start_time": "16:44",
+    "players": [
+      "藤田俊祐",
+      "飛田江己",
+      "中村泰平",
+      "川原涼",
+      "佐藤悠",
+      "中野希一"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "多摩川",
+    "venue_code": "05",
+    "race_no": "10R",
+    "start_time": "17:16",
+    "players": [
+      "黒野元基",
+      "豊田健士郎",
+      "中野仁照",
+      "石田貴洋",
+      "金田智博",
+      "宇留田翔平"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "多摩川",
+    "venue_code": "05",
+    "race_no": "11R",
+    "start_time": "17:48",
+    "players": [
+      "前田篤哉",
+      "澤田尚也",
+      "為本智也",
+      "佐藤航",
+      "吉田裕平",
+      "加藤優弥"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "多摩川",
+    "venue_code": "05",
+    "race_no": "12R",
+    "start_time": "18:20",
+    "players": [
+      "西橋奈未",
+      "川井萌",
+      "高憧四季",
+      "山崎小葉音",
+      "刑部亜里紗",
+      "上田紗奈"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "浜名湖",
+    "venue_code": "06",
+    "race_no": "2R",
+    "start_time": "11:48",
+    "players": [
+      "土屋実沙希",
+      "今井美亜",
+      "原田佑実",
+      "角ひとみ",
+      "山本梨菜",
+      "高木茉白"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "浜名湖",
+    "venue_code": "06",
+    "race_no": "3R",
+    "start_time": "12:19",
+    "players": [
+      "永田楽",
+      "坂野さくら",
+      "津田裕絵",
+      "深尾巴恵",
+      "来田衣織",
+      "廣中智紗衣"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "浜名湖",
+    "venue_code": "06",
+    "race_no": "4R",
+    "start_time": "12:49",
+    "players": [
+      "関野文",
+      "山下友貴",
+      "喜多那由夏",
+      "安達美帆",
+      "山下奈緒",
+      "西田和加"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "浜名湖",
+    "venue_code": "06",
+    "race_no": "5R",
+    "start_time": "13:19",
+    "players": [
+      "池千夏",
+      "水口由紀",
+      "豊田結",
+      "宇野弥生",
+      "中村紋夕梨",
+      "松瀬弘美"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "浜名湖",
+    "venue_code": "06",
+    "race_no": "6R",
+    "start_time": "13:50",
+    "players": [
+      "古賀千晶",
+      "伊藤栞",
+      "吉田彩乃",
+      "松尾夏海",
+      "落合直子",
+      "米丸乃絵"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "浜名湖",
+    "venue_code": "06",
+    "race_no": "7R",
+    "start_time": "14:22",
+    "players": [
+      "森岡まき",
+      "若狭奈美子",
+      "清水未唯",
+      "廣中智紗衣",
+      "中嶋世奈",
+      "倉田郁美"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "浜名湖",
+    "venue_code": "06",
+    "race_no": "8R",
+    "start_time": "15:00",
+    "players": [
+      "大瀧明日香",
+      "三嶌こころ",
+      "山下奈緒",
+      "津田裕絵",
+      "高木茉白",
+      "鈴木成美"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "浜名湖",
+    "venue_code": "06",
+    "race_no": "9R",
+    "start_time": "15:29",
+    "players": [
+      "寺島美里",
+      "千葉真弥",
+      "池田浩美",
+      "西田和加",
+      "宇野弥生",
+      "坂野さくら"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "浜名湖",
+    "venue_code": "06",
+    "race_no": "10R",
+    "start_time": "16:01",
+    "players": [
+      "藤堂里香",
+      "深尾巴恵",
+      "関野文",
+      "落合直子",
+      "樫葉新心",
+      "豊田結"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "浜名湖",
+    "venue_code": "06",
+    "race_no": "11R",
+    "start_time": "16:36",
+    "players": [
+      "原田佑実",
+      "松尾夏海",
+      "倉田郁美",
+      "櫻本あゆみ",
+      "山下友貴",
+      "来田衣織"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "浜名湖",
+    "venue_code": "06",
+    "race_no": "12R",
+    "start_time": "17:10",
+    "players": [
+      "今井美亜",
+      "永田楽",
+      "大瀧明日香",
+      "松瀬弘美",
+      "吉田彩乃",
+      "若狭奈美子"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "蒲郡",
+    "venue_code": "07",
+    "race_no": "2R",
+    "start_time": "15:42",
+    "players": [
+      "塩崎優司",
+      "末永祐輝",
+      "三木晴斗",
+      "梶原正",
+      "杉山貴博",
+      "片岡秀樹"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "蒲郡",
+    "venue_code": "07",
+    "race_no": "3R",
+    "start_time": "16:06",
+    "players": [
+      "田中太一郎",
+      "古川誠之",
+      "若林麗",
+      "山崎善庸",
+      "上野俊樹",
+      "小野達哉"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "蒲郡",
+    "venue_code": "07",
+    "race_no": "4R",
+    "start_time": "16:32",
+    "players": [
+      "上原崚",
+      "渡邊伸太郎",
+      "古場輝義",
+      "倉富大誠",
+      "草場康幸",
+      "赤岩善生"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "蒲郡",
+    "venue_code": "07",
+    "race_no": "5R",
+    "start_time": "17:01",
+    "players": [
+      "松竹大輔",
+      "田代達也",
+      "井上恵一",
+      "伊藤雄二",
+      "長尾京志郎",
+      "河野大"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "蒲郡",
+    "venue_code": "07",
+    "race_no": "6R",
+    "start_time": "17:27",
+    "players": [
+      "石田章央",
+      "鈴木賢一",
+      "吉田祐貴",
+      "佐藤世那",
+      "小森信雄",
+      "柳沢一"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "蒲郡",
+    "venue_code": "07",
+    "race_no": "7R",
+    "start_time": "17:54",
+    "players": [
+      "清水攻二",
+      "胡本悟志",
+      "梶原正",
+      "郷原章平",
+      "川田正人",
+      "若林麗"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "蒲郡",
+    "venue_code": "07",
+    "race_no": "8R",
+    "start_time": "18:22",
+    "players": [
+      "星野太郎",
+      "赤池修平",
+      "長野道臣",
+      "片岡秀樹",
+      "上原崚",
+      "木下虎之輔"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "蒲郡",
+    "venue_code": "07",
+    "race_no": "9R",
+    "start_time": "18:51",
+    "players": [
+      "赤岩善生",
+      "松竹大輔",
+      "杉山貴博",
+      "下出卓矢",
+      "小野達哉",
+      "塩崎優司"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "蒲郡",
+    "venue_code": "07",
+    "race_no": "10R",
+    "start_time": "19:23",
+    "players": [
+      "河野大",
+      "石田章央",
+      "前出達吉",
+      "草場康幸",
+      "古川誠之",
+      "末永祐輝"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "蒲郡",
+    "venue_code": "07",
+    "race_no": "11R",
+    "start_time": "20:02",
+    "players": [
+      "柳沢一",
+      "井上恵一",
+      "上野俊樹",
+      "三木晴斗",
+      "清水攻二",
+      "渡邊伸太郎"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "蒲郡",
+    "venue_code": "07",
+    "race_no": "12R",
+    "start_time": "20:31",
+    "players": [
+      "古場輝義",
+      "長尾京志郎",
+      "川田正人",
+      "星野太郎",
+      "鈴木賢一",
+      "長野道臣"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "びわこ",
+    "venue_code": "11",
+    "race_no": "2R",
+    "start_time": "11:03",
+    "players": [
+      "入澤友治",
+      "眞鳥康太",
+      "原豊土",
+      "森智也",
+      "谷口健一",
+      "古澤光紀"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "びわこ",
+    "venue_code": "11",
+    "race_no": "3R",
+    "start_time": "11:30",
+    "players": [
+      "岡瀬正人",
+      "國弘翔平",
+      "川島圭司",
+      "伊達正利",
+      "溝口海義也",
+      "堀本裕也"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "びわこ",
+    "venue_code": "11",
+    "race_no": "4R",
+    "start_time": "11:56",
+    "players": [
+      "高野哲史",
+      "岩井繁",
+      "山下拓巳",
+      "川村正輝",
+      "山田真聖",
+      "秦英悟"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "びわこ",
+    "venue_code": "11",
+    "race_no": "5R",
+    "start_time": "12:26",
+    "players": [
+      "後藤浩",
+      "佐藤大騎",
+      "関根彰人",
+      "三好勇人",
+      "安達裕樹",
+      "藤原駿"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "びわこ",
+    "venue_code": "11",
+    "race_no": "6R",
+    "start_time": "12:56",
+    "players": [
+      "乃村康友",
+      "谷口健一",
+      "鈴木茂高",
+      "長尾章平",
+      "表憲一",
+      "桑島和宏"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "びわこ",
+    "venue_code": "11",
+    "race_no": "7R",
+    "start_time": "13:26",
+    "players": [
+      "木山和幸",
+      "木村仁紀",
+      "堀本裕也",
+      "入澤友治",
+      "岡暢祐",
+      "竹上真司"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "びわこ",
+    "venue_code": "11",
+    "race_no": "8R",
+    "start_time": "13:57",
+    "players": [
+      "木村亮太",
+      "伊達正利",
+      "福田雅一",
+      "山田真聖",
+      "原豊土",
+      "近藤来希"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "びわこ",
+    "venue_code": "11",
+    "race_no": "9R",
+    "start_time": "14:29",
+    "players": [
+      "川村正輝",
+      "伊藤将吉",
+      "井芹大志",
+      "眞鳥康太",
+      "國弘翔平",
+      "飯山晃三"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "びわこ",
+    "venue_code": "11",
+    "race_no": "10R",
+    "start_time": "15:07",
+    "players": [
+      "古澤光紀",
+      "表憲一",
+      "三好勇人",
+      "川島圭司",
+      "小西英輝",
+      "高野哲史"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "びわこ",
+    "venue_code": "11",
+    "race_no": "11R",
+    "start_time": "15:37",
+    "players": [
+      "桑島和宏",
+      "安達裕樹",
+      "森智也",
+      "鈴木博",
+      "岡瀬正人",
+      "木山和幸"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "びわこ",
+    "venue_code": "11",
+    "race_no": "12R",
+    "start_time": "16:13",
+    "players": [
+      "秦英悟",
+      "溝口海義也",
+      "長尾章平",
+      "関根彰人",
+      "木村亮太",
+      "木村仁紀"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "住之江",
+    "venue_code": "12",
+    "race_no": "2R",
+    "start_time": "15:45",
+    "players": [
+      "須藤隆雄",
+      "品田直樹",
+      "森晋太郎",
+      "杉山太陽",
+      "木下雄介",
+      "今坂晃広"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "住之江",
+    "venue_code": "12",
+    "race_no": "3R",
+    "start_time": "16:09",
+    "players": [
+      "宮地博士",
+      "沖島広和",
+      "鈴木智啓",
+      "横川聖志",
+      "中本大樹",
+      "桑原啓"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "住之江",
+    "venue_code": "12",
+    "race_no": "4R",
+    "start_time": "16:42",
+    "players": [
+      "佐々木英樹",
+      "島田賢人",
+      "福嶋智之",
+      "小林孝彰",
+      "水谷理人",
+      "岡部哲"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "住之江",
+    "venue_code": "12",
+    "race_no": "5R",
+    "start_time": "17:06",
+    "players": [
+      "植田太一",
+      "佐藤永梧",
+      "烏野賢太",
+      "細川明人",
+      "小澤学",
+      "片橋幸貴"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "住之江",
+    "venue_code": "12",
+    "race_no": "6R",
+    "start_time": "17:32",
+    "players": [
+      "一宮稔弘",
+      "大場恒季",
+      "大町利克",
+      "廣瀬凜",
+      "嶋義信",
+      "深井利寿"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "住之江",
+    "venue_code": "12",
+    "race_no": "7R",
+    "start_time": "17:59",
+    "players": [
+      "上之晃弘",
+      "中本大樹",
+      "島村隆幸",
+      "須藤隆雄",
+      "東口晃",
+      "野村誠"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "住之江",
+    "venue_code": "12",
+    "race_no": "8R",
+    "start_time": "18:26",
+    "players": [
+      "森貴洋",
+      "芹澤克彦",
+      "岡部哲",
+      "篠崎元志",
+      "杉山太陽",
+      "菅沼佳昭"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "住之江",
+    "venue_code": "12",
+    "race_no": "9R",
+    "start_time": "18:58",
+    "players": [
+      "山崎裕司",
+      "上條暢嵩",
+      "中村辰也",
+      "木下雄介",
+      "松下誉士",
+      "佐藤永梧"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "住之江",
+    "venue_code": "12",
+    "race_no": "10R",
+    "start_time": "19:36",
+    "players": [
+      "福田宗平",
+      "福来剛",
+      "後藤翔之",
+      "片橋幸貴",
+      "宮地博士",
+      "福嶋智之"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "住之江",
+    "venue_code": "12",
+    "race_no": "11R",
+    "start_time": "20:07",
+    "players": [
+      "小池修平",
+      "野村誠",
+      "桑原啓",
+      "杉山裕也",
+      "島田賢人",
+      "細川明人"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "住之江",
+    "venue_code": "12",
+    "race_no": "12R",
+    "start_time": "20:36",
+    "players": [
+      "篠崎元志",
+      "水谷理人",
+      "深井利寿",
+      "今坂晃広",
+      "植田太一",
+      "鈴木智啓"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "尼崎",
+    "venue_code": "13",
+    "race_no": "2R",
+    "start_time": "10:56",
+    "players": [
+      "小野信樹",
+      "佐藤右京",
+      "高橋二朗",
+      "竹田広樹",
+      "竹本太樹",
+      "原田篤志"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "尼崎",
+    "venue_code": "13",
+    "race_no": "3R",
+    "start_time": "11:27",
+    "players": [
+      "久富政弘",
+      "間野兼礼",
+      "岡本大",
+      "原田雄次",
+      "中島浩哉",
+      "安河内鈴之介"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "尼崎",
+    "venue_code": "13",
+    "race_no": "4R",
+    "start_time": "11:55",
+    "players": [
+      "森悠稀",
+      "伯母芳恒",
+      "安藤裕貴",
+      "三原司",
+      "木下陽介",
+      "井川大作"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "尼崎",
+    "venue_code": "13",
+    "race_no": "5R",
+    "start_time": "12:31",
+    "players": [
+      "米田隆弘",
+      "伊藤喜智",
+      "遠藤圭吾",
+      "町田洸希",
+      "瀬川公則",
+      "森竜也"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "尼崎",
+    "venue_code": "13",
+    "race_no": "6R",
+    "start_time": "13:01",
+    "players": [
+      "横田貴満",
+      "竹田広樹",
+      "寳田亮治",
+      "牧宏次",
+      "高橋二朗",
+      "西村豪洋"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "尼崎",
+    "venue_code": "13",
+    "race_no": "7R",
+    "start_time": "13:42",
+    "players": [
+      "天野友和",
+      "中島浩哉",
+      "山川雄大",
+      "間野兼礼",
+      "佐藤右京",
+      "中村真"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "尼崎",
+    "venue_code": "13",
+    "race_no": "8R",
+    "start_time": "14:15",
+    "players": [
+      "下河誉史",
+      "竹本太樹",
+      "田邉亮蔵",
+      "岡本大",
+      "安藤裕貴",
+      "片岡大地"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "尼崎",
+    "venue_code": "13",
+    "race_no": "9R",
+    "start_time": "14:46",
+    "players": [
+      "照屋厚仁",
+      "木下陽介",
+      "三原司",
+      "遠藤圭吾",
+      "伊藤喜智",
+      "原田雄次"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "尼崎",
+    "venue_code": "13",
+    "race_no": "10R",
+    "start_time": "15:18",
+    "players": [
+      "町田洸希",
+      "横田貴満",
+      "安河内鈴之介",
+      "伯母芳恒",
+      "天野友和",
+      "小野信樹"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "尼崎",
+    "venue_code": "13",
+    "race_no": "11R",
+    "start_time": "15:51",
+    "players": [
+      "原田篤志",
+      "牧宏次",
+      "下河誉史",
+      "森悠稀",
+      "久富政弘",
+      "米田隆弘"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "尼崎",
+    "venue_code": "13",
+    "race_no": "12R",
+    "start_time": "16:24",
+    "players": [
+      "村上遼",
+      "松村敏",
+      "松山将吾",
+      "中嶋健一郎",
+      "岡祐臣",
+      "是澤孝宏"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "鳴門",
+    "venue_code": "14",
+    "race_no": "2R",
+    "start_time": "08:58",
+    "players": [
+      "丸尾義孝",
+      "加藤雅之",
+      "松下哲也",
+      "村松遥輝",
+      "栗山繁洋",
+      "内田壮"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "鳴門",
+    "venue_code": "14",
+    "race_no": "3R",
+    "start_time": "09:24",
+    "players": [
+      "山田祐也",
+      "岡本翔太郎",
+      "本吉正樹",
+      "永嶋裕一",
+      "北中元樹",
+      "飯島誠"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "鳴門",
+    "venue_code": "14",
+    "race_no": "4R",
+    "start_time": "09:50",
+    "players": [
+      "星栄爾",
+      "久保原秀人",
+      "後藤隼之",
+      "西山貴浩",
+      "岩橋裕馬",
+      "宮武英司"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "鳴門",
+    "venue_code": "14",
+    "race_no": "5R",
+    "start_time": "10:17",
+    "players": [
+      "浦田信義",
+      "中山雄太",
+      "中岡健人",
+      "市川健太",
+      "一柳和孝",
+      "山口隆史"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "鳴門",
+    "venue_code": "14",
+    "race_no": "6R",
+    "start_time": "10:47",
+    "players": [
+      "塩田雄一",
+      "栗山繁洋",
+      "伏田裕隆",
+      "山本光雄",
+      "柴田光",
+      "富永修一"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "鳴門",
+    "venue_code": "14",
+    "race_no": "7R",
+    "start_time": "11:18",
+    "players": [
+      "大井清貴",
+      "片岡雅裕",
+      "飯島誠",
+      "岡部大輝",
+      "小川広大",
+      "村松遥輝"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "鳴門",
+    "venue_code": "14",
+    "race_no": "8R",
+    "start_time": "11:50",
+    "players": [
+      "松下哲也",
+      "松本弓雄",
+      "新田智彰",
+      "久保原秀人",
+      "上野真之介",
+      "岡本翔太郎"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "鳴門",
+    "venue_code": "14",
+    "race_no": "9R",
+    "start_time": "12:23",
+    "players": [
+      "夏山亮平",
+      "北中元樹",
+      "星栄爾",
+      "渡辺崇",
+      "浦田信義",
+      "谷海夏人"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "鳴門",
+    "venue_code": "14",
+    "race_no": "10R",
+    "start_time": "12:57",
+    "players": [
+      "山本光雄",
+      "宇佐見淳",
+      "重木輝彦",
+      "小林遼太",
+      "川上清人",
+      "後藤隼之"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "鳴門",
+    "venue_code": "14",
+    "race_no": "11R",
+    "start_time": "13:32",
+    "players": [
+      "岡部大輝",
+      "宮武英司",
+      "富永修一",
+      "長岡良也",
+      "丸尾義孝",
+      "市川健太"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "鳴門",
+    "venue_code": "14",
+    "race_no": "12R",
+    "start_time": "14:10",
+    "players": [
+      "西山貴浩",
+      "柴田光",
+      "上野真之介",
+      "片岡雅裕",
+      "山田祐也",
+      "中山雄太"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "丸亀",
+    "venue_code": "15",
+    "race_no": "2R",
+    "start_time": "15:48",
+    "players": [
+      "井上尚悟",
+      "多羅尾達之",
+      "抹香雄三",
+      "東健介",
+      "藤田浩人",
+      "日高龍之介"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "丸亀",
+    "venue_code": "15",
+    "race_no": "3R",
+    "start_time": "16:17",
+    "players": [
+      "山地正樹",
+      "高木圭大",
+      "深川和仁",
+      "西野翔太",
+      "西川新太郎",
+      "金子順一"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "丸亀",
+    "venue_code": "15",
+    "race_no": "4R",
+    "start_time": "16:47",
+    "players": [
+      "興津藍",
+      "大串重幸",
+      "赤羽克也",
+      "出畑孝成",
+      "岡谷健吾",
+      "森作広大"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "丸亀",
+    "venue_code": "15",
+    "race_no": "5R",
+    "start_time": "17:12",
+    "players": [
+      "芦澤望",
+      "嶋田貴支",
+      "和合俊介",
+      "赤峰和也",
+      "田中和也",
+      "亀山雅幸"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "丸亀",
+    "venue_code": "15",
+    "race_no": "6R",
+    "start_time": "17:38",
+    "players": [
+      "山本寛久",
+      "冨成謙児",
+      "東健介",
+      "本多宏和",
+      "多羅尾達之",
+      "吉島祥之"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "丸亀",
+    "venue_code": "15",
+    "race_no": "7R",
+    "start_time": "18:04",
+    "players": [
+      "里岡右貴",
+      "西川新太郎",
+      "馬場剛",
+      "近藤稔也",
+      "深川和仁",
+      "岡田憲行"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "丸亀",
+    "venue_code": "15",
+    "race_no": "8R",
+    "start_time": "18:32",
+    "players": [
+      "飯島昌弘",
+      "藤田浩人",
+      "岡谷健吾",
+      "赤羽克也",
+      "高木圭大",
+      "宮本琉正"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "丸亀",
+    "venue_code": "15",
+    "race_no": "9R",
+    "start_time": "19:10",
+    "players": [
+      "抹香雄三",
+      "亀山雅幸",
+      "岡本慎治",
+      "森作広大",
+      "木場悠介",
+      "嶋田貴支"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "丸亀",
+    "venue_code": "15",
+    "race_no": "10R",
+    "start_time": "19:42",
+    "players": [
+      "本多宏和",
+      "山本寛久",
+      "西野翔太",
+      "井上尚悟",
+      "大串重幸",
+      "興津藍"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "丸亀",
+    "venue_code": "15",
+    "race_no": "11R",
+    "start_time": "20:12",
+    "players": [
+      "田中和也",
+      "飯島昌弘",
+      "山地正樹",
+      "馬場剛",
+      "里岡右貴",
+      "芦澤望"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "丸亀",
+    "venue_code": "15",
+    "race_no": "12R",
+    "start_time": "20:41",
+    "players": [
+      "若林将",
+      "海野康志郎",
+      "石井伸長",
+      "近江翔吾",
+      "中里英夫",
+      "菊池峰晴"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "児島",
+    "venue_code": "16",
+    "race_no": "2R",
+    "start_time": "11:07",
+    "players": [
+      "西川真人",
+      "渡邊裕貴",
+      "浅見宗孝",
+      "小坂風太",
+      "津留浩一郎",
+      "山ノ内雅人"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "児島",
+    "venue_code": "16",
+    "race_no": "3R",
+    "start_time": "11:43",
+    "players": [
+      "石川諒",
+      "坂本雄紀",
+      "小野勇作",
+      "篠原飛翔",
+      "杢野誓良",
+      "丸野一樹"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "児島",
+    "venue_code": "16",
+    "race_no": "4R",
+    "start_time": "12:13",
+    "players": [
+      "榎幸司",
+      "広瀬聖仁",
+      "荒井輝年",
+      "長野壮志郎",
+      "山田康二",
+      "淺香文武"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "児島",
+    "venue_code": "16",
+    "race_no": "5R",
+    "start_time": "12:47",
+    "players": [
+      "真庭明志",
+      "木下大將",
+      "松井洪弥",
+      "石野貴之",
+      "寺島吉彦",
+      "藤田靖弘"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "児島",
+    "venue_code": "16",
+    "race_no": "6R",
+    "start_time": "13:24",
+    "players": [
+      "山田亮太",
+      "三宅健太",
+      "池田浩二",
+      "中嶋誠一郎",
+      "西村拓也",
+      "稗田聖也"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "児島",
+    "venue_code": "16",
+    "race_no": "7R",
+    "start_time": "14:02",
+    "players": [
+      "角山雄哉",
+      "吉田拡郎",
+      "小坂風太",
+      "谷村一哉",
+      "川上剛",
+      "谷川将太"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "児島",
+    "venue_code": "16",
+    "race_no": "8R",
+    "start_time": "14:32",
+    "players": [
+      "杢野誓良",
+      "山ノ内雅人",
+      "桐生順平",
+      "吉田光",
+      "井上大輔",
+      "田頭虎親"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "児島",
+    "venue_code": "16",
+    "race_no": "9R",
+    "start_time": "15:05",
+    "players": [
+      "長野壮志郎",
+      "浅見宗孝",
+      "久永祥平",
+      "高橋正男",
+      "小野勇作",
+      "菊地孝平"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "児島",
+    "venue_code": "16",
+    "race_no": "10R",
+    "start_time": "15:36",
+    "players": [
+      "松井洪弥",
+      "山田亮太",
+      "篠原飛翔",
+      "榎幸司",
+      "金子猛志",
+      "山口剛"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "児島",
+    "venue_code": "16",
+    "race_no": "11R",
+    "start_time": "16:11",
+    "players": [
+      "吉田拡郎",
+      "高岡竜也",
+      "西村拓也",
+      "山田康二",
+      "坂本雄紀",
+      "木下大將"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "児島",
+    "venue_code": "16",
+    "race_no": "12R",
+    "start_time": "16:50",
+    "players": [
+      "桐生順平",
+      "荒井輝年",
+      "丸野一樹",
+      "池田浩二",
+      "谷村一哉",
+      "寺島吉彦"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "宮島",
+    "venue_code": "17",
+    "race_no": "2R",
+    "start_time": "11:13",
+    "players": [
+      "豊田泰洋",
+      "樋口喜彦",
+      "乙津康志",
+      "佐藤謙史朗",
+      "澁川夏",
+      "守屋大地"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "宮島",
+    "venue_code": "17",
+    "race_no": "3R",
+    "start_time": "11:40",
+    "players": [
+      "柴田直哉",
+      "長畑友輔",
+      "秋末秦悟",
+      "原村拓也",
+      "松下知幸",
+      "占部一真"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "宮島",
+    "venue_code": "17",
+    "race_no": "4R",
+    "start_time": "12:06",
+    "players": [
+      "松井賢治",
+      "中島真二",
+      "桑原将光",
+      "角浜修",
+      "安武一也",
+      "山口亮"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "宮島",
+    "venue_code": "17",
+    "race_no": "5R",
+    "start_time": "12:34",
+    "players": [
+      "浜崎準也",
+      "市川哲也",
+      "新出浩司",
+      "松田隆司",
+      "小林甘寧",
+      "澤崎雄哉"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "宮島",
+    "venue_code": "17",
+    "race_no": "6R",
+    "start_time": "13:11",
+    "players": [
+      "川北浩貴",
+      "乙津康志",
+      "樋口喜彦",
+      "河合三弘",
+      "豊田祥生",
+      "大澤誠也"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "宮島",
+    "venue_code": "17",
+    "race_no": "7R",
+    "start_time": "13:39",
+    "players": [
+      "井内将太郎",
+      "廣瀬篤哉",
+      "守屋大地",
+      "柴田直哉",
+      "秋末秦悟",
+      "佐藤謙史朗"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "宮島",
+    "venue_code": "17",
+    "race_no": "8R",
+    "start_time": "14:09",
+    "players": [
+      "原村拓也",
+      "木幡純也",
+      "山口亮",
+      "澁川夏",
+      "長畑友輔",
+      "安武一也"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "宮島",
+    "venue_code": "17",
+    "race_no": "9R",
+    "start_time": "14:39",
+    "players": [
+      "占部一真",
+      "藤森拓海",
+      "角浜修",
+      "桑原将光",
+      "松田隆司",
+      "鈴谷一平"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "宮島",
+    "venue_code": "17",
+    "race_no": "10R",
+    "start_time": "15:16",
+    "players": [
+      "澤崎雄哉",
+      "松下知幸",
+      "明石正之",
+      "市川哲也",
+      "中島真二",
+      "豊田泰洋"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "宮島",
+    "venue_code": "17",
+    "race_no": "11R",
+    "start_time": "16:00",
+    "players": [
+      "大澤誠也",
+      "松井賢治",
+      "井内将太郎",
+      "新出浩司",
+      "木幡純也",
+      "川北浩貴"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "宮島",
+    "venue_code": "17",
+    "race_no": "12R",
+    "start_time": "16:40",
+    "players": [
+      "徳増秀樹",
+      "山下和彦",
+      "岩永雅人",
+      "秋山広一",
+      "山本修一",
+      "角谷健吾"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "下関",
+    "venue_code": "19",
+    "race_no": "2R",
+    "start_time": "17:50",
+    "players": [
+      "畑和宏",
+      "宮迫暢彦",
+      "中尾彩香",
+      "小林京平",
+      "山本浩次",
+      "齋藤勇"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "下関",
+    "venue_code": "19",
+    "race_no": "3R",
+    "start_time": "18:14",
+    "players": [
+      "東潤樹",
+      "後藤盛也",
+      "井上一輝",
+      "森野正弘",
+      "松尾基成",
+      "小宮涼雅"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "下関",
+    "venue_code": "19",
+    "race_no": "4R",
+    "start_time": "18:38",
+    "players": [
+      "永田啓二",
+      "橋本明",
+      "村松修二",
+      "乙藤智史",
+      "伊藤玲奈",
+      "森陽多"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "下関",
+    "venue_code": "19",
+    "race_no": "5R",
+    "start_time": "19:05",
+    "players": [
+      "北村征嗣",
+      "板倉敦史",
+      "渡邉翼",
+      "寺田空詩",
+      "中島航",
+      "村岡賢人"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "下関",
+    "venue_code": "19",
+    "race_no": "6R",
+    "start_time": "19:31",
+    "players": [
+      "田中辰彦",
+      "峰重侑治",
+      "大豆生田蒼",
+      "田上凜",
+      "小川晃司",
+      "白井英治"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "下関",
+    "venue_code": "19",
+    "race_no": "7R",
+    "start_time": "19:57",
+    "players": [
+      "小野寺智洋",
+      "今村暢孝",
+      "藤山雅弘",
+      "池本輝明",
+      "渡辺豊",
+      "宮迫暢彦"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "下関",
+    "venue_code": "19",
+    "race_no": "8R",
+    "start_time": "20:26",
+    "players": [
+      "清埜翔子",
+      "齋藤勇",
+      "麻生慎介",
+      "坂口貴彦",
+      "松山裕基",
+      "小畑楓夏"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "下関",
+    "venue_code": "19",
+    "race_no": "9R",
+    "start_time": "20:57",
+    "players": [
+      "森野正弘",
+      "永田啓二",
+      "乙藤智史",
+      "竹井奈美",
+      "後藤盛也",
+      "森安弘雅"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "下関",
+    "venue_code": "19",
+    "race_no": "10R",
+    "start_time": "21:24",
+    "players": [
+      "村岡賢人",
+      "田中辰彦",
+      "北村征嗣",
+      "大豆生田蒼",
+      "橋本明",
+      "東潤樹"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "下関",
+    "venue_code": "19",
+    "race_no": "11R",
+    "start_time": "21:51",
+    "players": [
+      "白井英治",
+      "山本浩次",
+      "寺田空詩",
+      "渡邉翼",
+      "井上一輝",
+      "小野寺智洋"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "下関",
+    "venue_code": "19",
+    "race_no": "12R",
+    "start_time": "22:18",
+    "players": [
+      "村松修二",
+      "伊藤玲奈",
+      "清埜翔子",
+      "峰重侑治",
+      "小林京平",
+      "畑和宏"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "若松",
+    "venue_code": "20",
+    "race_no": "2R",
+    "start_time": "15:52",
+    "players": [
+      "鈴木峻佑",
+      "池上隆行",
+      "前川守嗣",
+      "渡邉英児",
+      "大久保信一郎",
+      "岡部浩"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "若松",
+    "venue_code": "20",
+    "race_no": "3R",
+    "start_time": "16:22",
+    "players": [
+      "宮内由紀英",
+      "水摩敦",
+      "山戸信二",
+      "松尾祭",
+      "天野誠",
+      "廣瀬真也"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "若松",
+    "venue_code": "20",
+    "race_no": "4R",
+    "start_time": "16:49",
+    "players": [
+      "高濱芳久",
+      "市川美宏",
+      "鶴本崇文",
+      "山本幸也",
+      "永田秀二",
+      "亀本勇樹"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "若松",
+    "venue_code": "20",
+    "race_no": "5R",
+    "start_time": "17:16",
+    "players": [
+      "清水敦揮",
+      "樋口亮",
+      "早川尚人",
+      "竹田辰也",
+      "中嶋達也",
+      "高山弘斗"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "若松",
+    "venue_code": "20",
+    "race_no": "6R",
+    "start_time": "17:44",
+    "players": [
+      "別府昌樹",
+      "三角哲男",
+      "村上功祐",
+      "杉田篤光",
+      "樫葉次郎",
+      "村越篤"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "若松",
+    "venue_code": "20",
+    "race_no": "7R",
+    "start_time": "18:10",
+    "players": [
+      "高田明",
+      "小坂尚哉",
+      "西村秀樹",
+      "池上隆行",
+      "垂水悠",
+      "田中豪"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "若松",
+    "venue_code": "20",
+    "race_no": "8R",
+    "start_time": "18:44",
+    "players": [
+      "枝尾賢",
+      "松尾祭",
+      "金田諭",
+      "市川美宏",
+      "野中義生",
+      "岩田凌"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "若松",
+    "venue_code": "20",
+    "race_no": "9R",
+    "start_time": "19:16",
+    "players": [
+      "市橋卓士",
+      "天野誠",
+      "渡邉英児",
+      "渡修平",
+      "山本幸也",
+      "竹田辰也"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "若松",
+    "venue_code": "20",
+    "race_no": "10R",
+    "start_time": "19:49",
+    "players": [
+      "樋口亮",
+      "村越篤",
+      "廣瀬真也",
+      "橋本英一",
+      "前川守嗣",
+      "永田秀二"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "若松",
+    "venue_code": "20",
+    "race_no": "11R",
+    "start_time": "20:17",
+    "players": [
+      "三角哲男",
+      "木場雄二郎",
+      "垂水悠",
+      "清水敦揮",
+      "鶴本崇文",
+      "大久保信一郎"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "若松",
+    "venue_code": "20",
+    "race_no": "12R",
+    "start_time": "20:45",
+    "players": [
+      "小坂尚哉",
+      "別府昌樹",
+      "高濱芳久",
+      "枝尾賢",
+      "早川尚人",
+      "山戸信二"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "芦屋",
+    "venue_code": "21",
+    "race_no": "2R",
+    "start_time": "09:14",
+    "players": [
+      "眞鳥章太",
+      "津田陸翔",
+      "加倉侑征",
+      "濱野斗馬",
+      "山口広樹",
+      "武井莉里佳"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "芦屋",
+    "venue_code": "21",
+    "race_no": "3R",
+    "start_time": "09:40",
+    "players": [
+      "宮田龍馬",
+      "藤原早菜",
+      "島川海輝",
+      "梶山涼斗",
+      "西丸侑太朗",
+      "大島隆乃介"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "芦屋",
+    "venue_code": "21",
+    "race_no": "4R",
+    "start_time": "10:06",
+    "players": [
+      "木谷賢太",
+      "浦野海",
+      "山口真喜子",
+      "田村慶",
+      "三村岳人",
+      "篠原晟弥"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "芦屋",
+    "venue_code": "21",
+    "race_no": "5R",
+    "start_time": "10:34",
+    "players": [
+      "宗行治哉",
+      "門田栞",
+      "柳瀬幹太",
+      "田川大貴",
+      "数原魁",
+      "竹下大樹"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "芦屋",
+    "venue_code": "21",
+    "race_no": "6R",
+    "start_time": "11:05",
+    "players": [
+      "大原祥昌",
+      "佐々木完太",
+      "山口広樹",
+      "山下大輝",
+      "小芦るり華",
+      "前原大道"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "芦屋",
+    "venue_code": "21",
+    "race_no": "7R",
+    "start_time": "11:36",
+    "players": [
+      "大賀龍之介",
+      "登玉隼百",
+      "勝浦真帆",
+      "谷口知優",
+      "牧山敦也",
+      "津田陸翔"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "芦屋",
+    "venue_code": "21",
+    "race_no": "8R",
+    "start_time": "12:07",
+    "players": [
+      "梶山涼斗",
+      "濱野斗馬",
+      "宮脇遼太",
+      "富田恕生",
+      "川崎智稔",
+      "山口真喜子"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "芦屋",
+    "venue_code": "21",
+    "race_no": "9R",
+    "start_time": "12:40",
+    "players": [
+      "田村慶",
+      "竹下大樹",
+      "清水愛海",
+      "加倉侑征",
+      "森智哉",
+      "加藤翔馬"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "芦屋",
+    "venue_code": "21",
+    "race_no": "10R",
+    "start_time": "13:13",
+    "players": [
+      "中亮太",
+      "武井莉里佳",
+      "前原大道",
+      "西丸侑太朗",
+      "田川大貴",
+      "浦野海"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "芦屋",
+    "venue_code": "21",
+    "race_no": "11R",
+    "start_time": "13:47",
+    "players": [
+      "佐々木完太",
+      "宮田龍馬",
+      "眞鳥章太",
+      "山田丈",
+      "宗行治哉",
+      "三村岳人"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "芦屋",
+    "venue_code": "21",
+    "race_no": "12R",
+    "start_time": "14:28",
+    "players": [
+      "實森美祐",
+      "中村日向",
+      "井本昌也",
+      "常住蓮",
+      "西岡顕心",
+      "高橋竜矢"
+    ],
+    "female_race": true
+  },
+  {
+    "venue": "唐津",
+    "venue_code": "23",
+    "race_no": "2R",
+    "start_time": "09:06",
+    "players": [
+      "平野和明",
+      "繁野谷圭介",
+      "松井貫太",
+      "田中宏典",
+      "齊藤大将",
+      "山口修路"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "唐津",
+    "venue_code": "23",
+    "race_no": "3R",
+    "start_time": "09:32",
+    "players": [
+      "滝沢芳行",
+      "小黒竜吾",
+      "桐本康臣",
+      "山下昂大",
+      "石倉拓美",
+      "小柳勝希"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "唐津",
+    "venue_code": "23",
+    "race_no": "4R",
+    "start_time": "09:58",
+    "players": [
+      "中島友和",
+      "小坂宗司",
+      "宮嵜隆太郎",
+      "武富智亮",
+      "増田進",
+      "高橋英之"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "唐津",
+    "venue_code": "23",
+    "race_no": "5R",
+    "start_time": "10:28",
+    "players": [
+      "橋本年光",
+      "松本庸平",
+      "立具敬司",
+      "岸蔭亮",
+      "有賀達也",
+      "戸塚邦好"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "唐津",
+    "venue_code": "23",
+    "race_no": "6R",
+    "start_time": "10:58",
+    "players": [
+      "中野夢斗",
+      "加藤啓太",
+      "小林一樹",
+      "廣中良一",
+      "森永淳",
+      "鐘ヶ江真司"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "唐津",
+    "venue_code": "23",
+    "race_no": "7R",
+    "start_time": "11:28",
+    "players": [
+      "永井亮次",
+      "末永由楽",
+      "石倉拓美",
+      "内田圭",
+      "田中宏典",
+      "松尾昂明"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "唐津",
+    "venue_code": "23",
+    "race_no": "8R",
+    "start_time": "12:01",
+    "players": [
+      "広次修",
+      "宮嵜隆太郎",
+      "前田将太",
+      "山口修路",
+      "小柳勝希",
+      "柳瀬興志"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "唐津",
+    "venue_code": "23",
+    "race_no": "9R",
+    "start_time": "12:32",
+    "players": [
+      "金山立樹",
+      "平野和明",
+      "中島友和",
+      "安田政彦",
+      "永松良教",
+      "山下昂大"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "唐津",
+    "venue_code": "23",
+    "race_no": "10R",
+    "start_time": "13:06",
+    "players": [
+      "小林一樹",
+      "有賀達也",
+      "小黒竜吾",
+      "高橋英之",
+      "宮村勇哉",
+      "繁野谷圭介"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "唐津",
+    "venue_code": "23",
+    "race_no": "11R",
+    "start_time": "13:43",
+    "players": [
+      "末永由楽",
+      "橋本年光",
+      "山谷央",
+      "中野夢斗",
+      "川上聡介",
+      "武富智亮"
+    ],
+    "female_race": false
+  },
+  {
+    "venue": "唐津",
+    "venue_code": "23",
+    "race_no": "12R",
+    "start_time": "14:20",
+    "players": [
+      "森永淳",
+      "滝沢芳行",
+      "松尾昂明",
+      "戸塚邦好",
+      "前田将太",
+      "小坂宗司"
+    ],
+    "female_race": false
+  }
+]
